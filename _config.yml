@@ -1,0 +1,14 @@
+layout_spectrum: 0.6634544
+typography_spectrum: 0.158696
+color:
+  saturation: 0.2530669
+  lightness: 0.9296439
+  brandStrength: 0.7759082
+  rhythmicContrast: 0.5117476
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: iStasis
